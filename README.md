@@ -8,8 +8,9 @@ Basic Programming for Data Science and Data Visualization : วิกานด�
 
 **Group Project : ไข่ดาวเจียว**
 
-* [**Dashboard**](https://datastudio.google.com/reporting/1ef02e55-7de5-42e0-829b-e283c5dfd02b/page/p_m597whyctc?fbclid=IwAR0WJEIgLYxmfjsYWSe0znL5GTEKEDZa0wzENli7LyvIr4FUOdiDZF-6cUk)
 * [**แนะนำข้อมูลและออกแบบ Dashboard**](https://www.canva.com/design/DAE8XsVM8T0/072Uk1MesVGRJ3EVw2Jcbw/view?utm_content=DAE8XsVM8T0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* [**Dashboard**](https://datastudio.google.com/reporting/1ef02e55-7de5-42e0-829b-e283c5dfd02b/page/p_m597whyctc?fbclid=IwAR0WJEIgLYxmfjsYWSe0znL5GTEKEDZa0wzENli7LyvIr4FUOdiDZF-6cUk)
+
 
 # สอบ Final อาทิตย์สอบ
 ให้โจทย์ ศุกร์ที่ 8 เมษา ส่งงานก่อนวันจันทร์ที่ 11 เมษา
