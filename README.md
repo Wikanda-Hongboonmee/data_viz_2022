@@ -14,3 +14,10 @@ Basic Programming for Data Science and Data Visualization : วิกานด�
 
 # สอบ Final อาทิตย์สอบ
 ให้โจทย์ ศุกร์ที่ 8 เมษา ส่งงานก่อนวันจันทร์ที่ 11 เมษา
+
+**Group Final : intracellularly**
+
+* [**Colab**](https://github.com/Wikanda-Hongboonmee/data_viz_2022/blob/main/Final_DataViz2022.ipynb)
+  * Preprocessing
+
+* [**Dashboard Link**](https://datastudio.google.com/s/hcyRbdEMrGw)
